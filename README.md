@@ -1,5 +1,9 @@
 # git-submodule-mss1
 
+This one executes API rest call to mss1, via apiClient submodule implementations.
+
+For the shake of simplicity there is not even MVC architecture implemented.
+
 ## Initial setup
 
 Git clone repositories with `--recurse-submodules` option.
