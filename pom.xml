@@ -46,7 +46,7 @@
         </dependency>
         <dependency>
             <groupId>com.apiumhub.articles.git-submodules</groupId>
-            <artifactId>api-client</artifactId>
+            <artifactId>api-client-mss1</artifactId>
             <version>1.0.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
