@@ -11,7 +11,8 @@ Git clone repositories with `--recurse-submodules` option.
     git clone --recurse-submodules https://github.com/davidgfolchApium/gitsubmodule-mss1
     git clone --recurse-submodules https://github.com/davidgfolchApium/gitsubmodule-mss2
 
-## Run
+## Compile and Run
 Be sure you are using jdk11 before:
 
+    mvn clean install
     cd api && mvn spring-boot:run
